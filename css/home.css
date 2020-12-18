@@ -1,0 +1,17 @@
+.container {
+  max-width: 960px;
+}
+
+.nav-link active {
+  font-family: 'Oswald', sans-serif;
+}
+.nav-link {
+  font-family: 'Oswald', sans-serif;
+}
+.navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  background-color: #242A30;
+}
