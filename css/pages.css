@@ -1,7 +1,13 @@
 .container {
-  max-width: 960px;
+  max-width: inherit;
+  text-align: center;
 }
-
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+  font-weight: 500;
+}
 .nav-link active {
   font-family: 'Oswald', sans-serif;
 }
@@ -16,15 +22,46 @@ body {
   background-color: #242A30;
   font-family: 'Oswald', sans-serif;
   color: white;
+  overflow-y: scroll;
+  font-weight: 300;
+}
+h1 {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  text-align: left;
+}
+h5 {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   text-align: center;
+  font-weight: 300;
+  opacity: 50%;
 }
 p {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
   font-size: x-large;
+  text-align: left;
+}
+.card{
+  background-color: #32383E;
+}
+.card-header {
+  font-weight: 500;
+}
+.list-group-item {
+  color: white;
+  background-color: #32383E;
+}
+.list-group list-group-flush li a {
+  color: #CCCDCF;
 }
 .img-fluid {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+
+}
+mastfoot mt-auto {
+  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  text-align: center;
+  font-weight: 300;
+  opacity: 50%;
 }
