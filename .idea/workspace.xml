@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02ee3eef-cd2f-4924-9b15-d66799c82477" name="Default Changelist" comment="Task: formatted How Internet Works content pages">
+    <list default="true" id="02ee3eef-cd2f-4924-9b15-d66799c82477" name="Default Changelist" comment="Task: added favicon to all pages">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HTTP.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICANN.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IP.html" beforeDir="false" afterPath="$PROJECT_DIR$/IP.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/W3C.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserWars.html" beforeDir="false" afterPath="$PROJECT_DIR$/browserWars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotCom.html" beforeDir="false" afterPath="$PROJECT_DIR$/dotCom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internetSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/internetSearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608315480399</updated>
-      <workItem from="1608315481502" duration="20441000" />
+      <workItem from="1608315481502" duration="21542000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Created homepage">
       <created>1608320478224</created>
@@ -194,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608343117321</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Task: added favicon to all pages">
+      <created>1608343516916</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608343516916</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +220,8 @@
     <MESSAGE value="Feature: created new content pages" />
     <MESSAGE value="Task: edited images for content pages" />
     <MESSAGE value="Task: formatted How Internet Works content pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: formatted How Internet Works content pages" />
+    <MESSAGE value="Task: added favicon to all pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: added favicon to all pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="-716" key="#Notifications" timestamp="1608340680493">
@@ -238,10 +241,10 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="717" y="-835" key="Github.UntrackedFilesDialog/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1608320450579" />
-    <state x="552" y="-807" key="Vcs.Push.Dialog.v2" timestamp="1608343122564">
+    <state x="552" y="-807" key="Vcs.Push.Dialog.v2" timestamp="1608343581940">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="552" y="-807" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1608343122564" />
+    <state x="552" y="-807" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1608343581940" />
     <state x="561" y="-930" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608333078222">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
