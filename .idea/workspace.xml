@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02ee3eef-cd2f-4924-9b15-d66799c82477" name="Default Changelist" comment="Task: removed background image">
+    <list default="true" id="02ee3eef-cd2f-4924-9b15-d66799c82477" name="Default Changelist" comment="Task: edited images for content pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserWars.html" beforeDir="false" afterPath="$PROJECT_DIR$/browserWars.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/pages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dotCom.html" beforeDir="false" afterPath="$PROJECT_DIR$/dotCom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/browserWars.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/browserWars.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dotComBubble.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dotComBubble.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/importantPeople.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/importantPeople.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/internetSearch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/internetSearch.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/invention.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/invention.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/internetSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/internetSearch.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/invention.html" beforeDir="false" afterPath="$PROJECT_DIR$/invention.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/people.html" beforeDir="false" afterPath="$PROJECT_DIR$/people.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DNS.html" beforeDir="false" afterPath="$PROJECT_DIR$/DNS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTTP.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTTP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/ICANN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IP.html" beforeDir="false" afterPath="$PROJECT_DIR$/IP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3C.html" beforeDir="false" afterPath="$PROJECT_DIR$/W3C.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608315480399</updated>
-      <workItem from="1608315481502" duration="18458000" />
+      <workItem from="1608315481502" duration="20062000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Created homepage">
       <created>1608320478224</created>
@@ -141,7 +132,56 @@
       <option name="project" value="LOCAL" />
       <updated>1608332121821</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Feature: added content to Internet History pages">
+      <created>1608341644710</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608341644710</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task: updated stylesheets">
+      <created>1608341659615</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608341659615</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Task: edited images for content pages">
+      <created>1608341680657</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608341680657</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Bug: fixed navbar on home page">
+      <created>1608341706796</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608341706796</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Bug: fixed navbar on about page">
+      <created>1608341716109</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608341716109</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Feature: created new content pages">
+      <created>1608341740308</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608341740308</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task: edited images for content pages">
+      <created>1608341757401</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608341757401</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,7 +198,13 @@
     <MESSAGE value="Task: updated homepage stylesheet" />
     <MESSAGE value="Task: Added hero image" />
     <MESSAGE value="Task: removed background image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: removed background image" />
+    <MESSAGE value="Feature: added content to Internet History pages" />
+    <MESSAGE value="Task: updated stylesheets" />
+    <MESSAGE value="Bug: fixed navbar on home page" />
+    <MESSAGE value="Bug: fixed navbar on about page" />
+    <MESSAGE value="Feature: created new content pages" />
+    <MESSAGE value="Task: edited images for content pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: edited images for content pages" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="-716" key="#Notifications" timestamp="1608340680493">
@@ -178,10 +224,10 @@
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
     <state x="717" y="-835" key="Github.UntrackedFilesDialog/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1608320450579" />
-    <state x="552" y="-807" key="Vcs.Push.Dialog.v2" timestamp="1608332126301">
+    <state x="552" y="-807" key="Vcs.Push.Dialog.v2" timestamp="1608341766262">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="552" y="-807" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1608332126301" />
+    <state x="552" y="-807" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1608341766262" />
     <state x="561" y="-930" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608333078222">
       <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
